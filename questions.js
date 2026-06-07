@@ -1,3 +1,4 @@
+
 // Gán danh sách câu hỏi vào biến hệ thống để file HTML có thể đọc được công khai
 window.allQuestions = [
   {
@@ -1374,7 +1375,7 @@ window.allQuestions = [
     "id": 138,
     "question": "Câu 138: Đồng chí cho biết nền Cờ truyền thống CAND được bố trí như thế nào là đúng?",
     "answers": [
-      "Nền cờ màu đỏ, ở giữa có ngôi sao 5 cánh màu vàng, góc trên phía trái có 6 chữ “BẢO VỆ AN NINH TÔ QUỐC” in hoa, màu vàng, nét cuối của chữ thứ sáu không vượt quá đầu của cánh sao phía trái.",
+      "Nền cờ màu đỏ, ở giữa có ngôi sao 5 cánh màu vàng, góc trên phía trái có 6 chữ “BẢO VỆ AN NINH TỔ QUỐC” in hoa, màu vàng, nét cuối của chữ thứ sáu không vượt quá đầu của cánh sao phía trái.",
       "Nền cờ màu đỏ, ở giữa có ngôi sao 5 cánh màu vàng, góc trên phía trái có 6 chữ “BẢO VỆ AN NINH TỔ QUỐC” in hoa, màu vàng, nét cuối của chữ thứ sáu không vượt quá đầu của cánh sao phía phải.",
       "Nền cờ màu đỏ, ở giữa có ngôi sao 5 cánh màu vàng, góc trên phía trái có 6 chữ “BẢO VỆ AN NINH TỔ QUỐC” in hoa, màu vàng, nét cuối của chữ thứ sáu không vượt quá đầu của cánh sao ở chính giữa."
     ],
@@ -2398,7 +2399,7 @@ window.allQuestions = [
       "Hạ một bậc xếp loại cán bộ trong năm.",
       "Hạ hai bậc danh hiệu thi đua trong năm."
     ],
-    "correct_answer": "Hạ một bậc danh hiệu thi đua trong năm."
+    "correct_answer": "Hạ một bậc xếp loại cán bộ trong năm."
   },
   {
     "id": 241,
@@ -2418,7 +2419,7 @@ window.allQuestions = [
       "Hạ một bậc xếp loại cán bộ trong năm.",
       "Hạ hai bậc danh hiệu thi đua trong năm."
     ],
-    "correct_answer": "Hạ một bậc danh hiệu thi đua trong năm."
+    "correct_answer": "Hạ một bậc xếp loại cán bộ trong năm."
   },
   {
     "id": 243,
